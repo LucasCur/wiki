@@ -10,9 +10,9 @@
 - Trident Crafting Recipe
 - Glow Sticks
 - & more
-2. ### Additional Structures  |  [Link](https://modrinth.com/mod/additional-structures/gallery)
+2. ### Additional Structures  |  [More Info](https://modrinth.com/mod/additional-structures/gallery)
 - Over 200 new structes (i'm not listing them just check the link)
-3. ### Advanced Netherite  |  [Link](https://modrinth.com/mod/advanced-netherite)
+3. ### Advanced Netherite  |  [More Info](https://modrinth.com/mod/advanced-netherite)
 - 4 new tiers of netherite
 - Armor-specific perks for each tier
 4. ### Air Hop

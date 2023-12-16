@@ -1,4 +1,4 @@
-# Modpack Content
+# Mods
 1. test
 - test
 - test

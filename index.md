@@ -17,7 +17,7 @@
 - Double-jump enchantment
 5. ### Aquamirae  |  [More Info](https://modrinth.com/mod/aquamirae)
 - New Boss (Ghost of Captain Cornelia)
-- Deep-sea creatures such as Anglerfish, Maws, Tortured Souls & more
+- Deep-sea creatures:
   + Anglerfish
   + Maw
   + Tortured soul 
@@ -158,3 +158,22 @@
 - Adds loads of new ENDGAME dungeons
 - They are kinda rare, so you might have to use elytra and travel a good couple thousand blocks to find a specific one
 63. ### YUNG's Better Dungeons
+- Overhauls vanilla dungeons
+64. ### YUNG's Better Jungle Temple
+- Overhauls vanilla Jungle Temple
+65. ### YUNG's Better Mineshafts
+- Overhauls vanilla mineshafts
+65. ### YUNG's Better Nether Fortresses
+- Adds in a new type of nether fortress, called the Nether Keep, with loads of new room types
+66. ### YUNG's Better Ocean Monument
+- Overhauls vanilla Ocean Monument
+67. ### YUNG's Better Stronghold
+- Overhauls vanilla Stronghold
+68. ### YUNG's Better Witch Huts
+- Overhauls vanilla witch huts
+69. ### YUNG's Bridges
+- Adds in naturally-generated bridges
+70. ### YUNG's Extras  |  [More Info](https://modrinth.com/mod/yungs-extras)
+- Loads of Vanilla+ content
+71. ### Waystones  |  [More Info](https://youtu.be/wcYG_fns7LU?si=dJcLrFd7k42ohlHt)
+- You can now teleport across long distances by placing down waystones

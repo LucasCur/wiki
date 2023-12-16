@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
   - content.md
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate

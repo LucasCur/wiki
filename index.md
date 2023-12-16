@@ -17,11 +17,11 @@
 - Double-jump enchantment
 5. ### Aquamirae  |  [More Info](https://modrinth.com/mod/aquamirae)
 - New Boss (Ghost of Captain Cornelia)
-- Deep-sea creatures
-+ Anglerfish
-+ Maw
-+ Tortured soul
-+ & more
+- Deep-sea creatures such as Anglerfish, Maws, Tortured Souls & more
+  + Anglerfish
+  + Maw
+  + Tortured soul 
+  + & more
 - Ice Maze (new location)
 - Many new weapons
 - Many new sets of armor, some with set-bonuses

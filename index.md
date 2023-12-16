@@ -31,8 +31,7 @@
 7. ### Areas
 - Lets you name locations
 - Displays location name as you enter
-8. ### Random Village Names
-- Uses areas to give every village a unique name
+- Every village automatically gets a random name
 9. ### Artifacts  |  [More Info](https://modrinth.com/mod/artifacts)
 - Adds loads of rare trinkets and accessories that give certain buffs
 10. ### Majrusz's Accessories  |  [More Info](https://modrinth.com/mod/majruszs-accessories)

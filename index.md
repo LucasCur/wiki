@@ -67,7 +67,7 @@
 23. ### DungeonZ
 - Adds in very hard dungeons you can clear
 24. ### Easy Anvils
-- Name tags can be renamed without armor stands
+- Name tags can be renamed without anvils
 - Text can be [coloured or formatted](https://htmlcolorcodes.com/minecraft-color-codes/) with chat codes
 - Anvils can have items left in them
 25. ### Easy Enchants

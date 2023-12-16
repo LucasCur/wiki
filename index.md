@@ -1,9 +1,4 @@
----
-layout: default
-title: Wintah
----
-
-#Wiki Title
+# Modpack Content
 - test
 - test
 - test

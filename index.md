@@ -1,4 +1,5 @@
 # Mods
+## These are not all the mods, only the content mods. There's ~100 mods after you factor in all the performance mods and requirements these content mods have.
 1. ### Additional Additions  |  [More Info](https://github.com/Dqu1J/additionaladditions/wiki)
 - Rope (ladder without wall)
 - Inverted Redstone

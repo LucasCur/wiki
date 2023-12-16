@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Your Title
-subtitle: Your Subtitle
+title: Wintah
 ---
 
 #Wiki Title

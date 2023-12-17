@@ -177,3 +177,67 @@
 - Loads of Vanilla+ content
 71. ### Waystones  |  [More Info](https://youtu.be/wcYG_fns7LU?si=dJcLrFd7k42ohlHt)
 - You can now teleport across long distances by placing down waystones
+72. ### AdventureZ  |  [More Info](https://modrinth.com/mod/adventurez)
+- New Boss (Stone Golem)
+- New Boss (The Eye)
+- Nether Mobs
+  + Blackstone Golem
+  + Piglin Beast
+  + Soul Reaper
+  + Necromancer
+  + Blaze Guardian
+- Overworld Mobs
+  + Summoner
+  + Vanguard
+- Dragon Mount
+  1. Kill The Eye boss to reclaim the dragon egg.
+  2. Then the egg will hatch after around 10 minutes.
+  3. After it's hatched, feed it raw meat or orc skin.
+  4. Then once the dragon grows up, it will be rideable with a dragon saddle.
+  5. Then once it grows up again you'll be able to put a chest on it.
+73. ### Rings of Ascension
+- Adds in loads of ring accessories that give different buffs
+74. ### Ender Dragon Fight Remastered
+- Makes the ender dragon fight harder, with more attack patterns and a second 'mad' phase at half health
+- Attack order:
+  1. Force endermen to attack random player
+  2. Summon end zombies
+  3. Shoot fireballs that explode
+  4. Force the dragon to perch (replaced with another fireball attack if dragon is mad)
+- Then when the dragon reaches half health, it will enter a second phase - respawning 3 end crystals and becoming 'mad'
+- Mad attacks:
+  1. Teleport to random end crystal location.
+  2. Strike lightning on everyone (if you are moving, the lightning will be where you were a second ago, so just keep moving)
+  3. Summon anvils 20 blocks above everyone
+  4. Spawns miniboss (only one can be alive at a time, and dragon will be frozen until the miniboss is killed)
+75. ### Equipment Compare
+- When hovering over an armor item in your inventory, it will compare it to your currently equipped.
+76. ### Nyf's Spiders
+- Spiders can actually climb on walls now
+77. ### Mine Cells  |  [More Info](https://mim1q.dev/minecells/)
+- Three new dimensions:
+  + Prisoner's Quarters
+  + Promenade of The Condemned
+  + Insufferable Crypt
+- 6 new mobs (only within and around the dimensions and their entrances)
+- New Boss (Conjunctivius)
+78. ### Vein Mining Enchantment
+- Adds in a vein mining enchantment...
+79. ### More Chest Variants
+- Depending on the wood used, you'll get different looking chests (use oak for vanilla chest texture)
+80. ### Forgiving Void
+- If you fall into the void, you will fall back into the world from the sky.
+- If you fall, as long as you had full health when you fell, wherever you land you'll have half a heart left.
+81. ### Image2Map  |  [More Info](https://modrinth.com/mod/image2map)
+- Lets you turn images into in-game maps
+82. ### Formations Nether
+- Adds in 8 more randomly-generated structures in the nether
+83. ### Macaw's Furniture
+- Adds in furniture
+84. ### Macaw's Trapdoors
+- Adds in new trapdoors
+85. ### Macaw's Paths and Pavings
+- Adds in paths and pavings
+86. ### Armorful
+- Illagers and drowned will now spawn with armor
+- Adds in wolf armor

@@ -190,26 +190,26 @@
   + Summoner
   + Vanguard
 - Dragon Mount
-  1. Kill The Eye boss to reclaim the dragon egg.
-  2. Then the egg will hatch after around 10 minutes.
-  3. After it's hatched, feed it raw meat or orc skin.
-  4. Then once the dragon grows up, it will be rideable with a dragon saddle.
-  5. Then once it grows up again you'll be able to put a chest on it.
+  + Kill The Eye boss to reclaim the dragon egg.
+  + Then the egg will hatch after around 10 minutes.
+  + After it's hatched, feed it raw meat or orc skin.
+  + Then once the dragon grows up, it will be rideable with a dragon saddle.
+  + Then once it grows up again you'll be able to put a chest on it.
 73. ### Rings of Ascension
 - Adds in loads of ring accessories that give different buffs
 74. ### Ender Dragon Fight Remastered
 - Makes the ender dragon fight harder, with more attack patterns and a second 'mad' phase at half health
 - Attack order:
-  1. Force endermen to attack random player
-  2. Summon end zombies
-  3. Shoot fireballs that explode
-  4. Force the dragon to perch (replaced with another fireball attack if dragon is mad)
+  + Force endermen to attack random player
+  + Summon end zombies
+  + Shoot fireballs that explode
+  + Force the dragon to perch (replaced with another fireball attack if dragon is mad)
 - Then when the dragon reaches half health, it will enter a second phase - respawning 3 end crystals and becoming 'mad'
 - Mad attacks:
-  1. Teleport to random end crystal location.
-  2. Strike lightning on everyone (if you are moving, the lightning will be where you were a second ago, so just keep moving)
-  3. Summon anvils 20 blocks above everyone
-  4. Spawns miniboss (only one can be alive at a time, and dragon will be frozen until the miniboss is killed)
+  + Teleport to random end crystal location.
+  + Strike lightning on everyone (if you are moving, the lightning will be where you were a second ago, so just keep moving)
+  + Summon anvils 20 blocks above everyone
+  + Spawns miniboss (only one can be alive at a time, and dragon will be frozen until the miniboss is killed)
 75. ### Equipment Compare
 - When hovering over an armor item in your inventory, it will compare it to your currently equipped.
 76. ### Nyf's Spiders

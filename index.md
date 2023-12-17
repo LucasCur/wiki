@@ -219,7 +219,16 @@
   + Prisoner's Quarters
   + Promenade of The Condemned
   + Insufferable Crypt
-- 6 new mobs (only within and around the dimensions and their entrances)
+- Nine new mobs (only within and around the dimensions and their entrances):
+  + Leaping Zombie
+  + Grenadier
+  + Shieldbearer
+  + Undead Archer
+  + Runner
+  + Mutated Bat
+  + Protector
+  + Inquisitor
+  + Sewers Tentacle
 - New Boss (Conjunctivius)
 78. ### Vein Mining Enchantment
 - Adds in a vein mining enchantment...

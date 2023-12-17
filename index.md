@@ -242,3 +242,7 @@
 - Over 80+ structures including dungeons
 89. ### Moog's End Structures
 - Over 20 end structures (maybe including dungeons idfk)
+90. ### Trimmable Tools
+- You can now trim your tools...
+91. ### Hopo's Better Underwater Cities
+- Overhauled underwater cities

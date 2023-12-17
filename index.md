@@ -214,39 +214,31 @@
 - When hovering over an armor item in your inventory, it will compare it to your currently equipped.
 76. ### Nyf's Spiders
 - Spiders can actually climb on walls now
-77. ### Mine Cells  |  [More Info](https://mim1q.dev/minecells/)
-- Three new dimensions:
-  + Prisoner's Quarters
-  + Promenade of The Condemned
-  + Insufferable Crypt
-- Nine new mobs (only within and around the dimensions and their entrances):
-  + Leaping Zombie
-  + Grenadier
-  + Shieldbearer
-  + Undead Archer
-  + Runner
-  + Mutated Bat
-  + Protector
-  + Inquisitor
-  + Sewers Tentacle
-- New Boss (Conjunctivius)
-78. ### Vein Mining Enchantment
+77. ### Vein Mining Enchantment
 - Adds in a vein mining enchantment...
-79. ### More Chest Variants
+78. ### More Chest Variants
 - Depending on the wood used, you'll get different looking chests (use oak for vanilla chest texture)
-80. ### Forgiving Void
+79. ### Forgiving Void
 - If you fall into the void, you will fall back into the world from the sky.
 - If you fall, as long as you had full health when you fell, wherever you land you'll have half a heart left.
-81. ### Image2Map  |  [More Info](https://modrinth.com/mod/image2map)
+80. ### Image2Map  |  [More Info](https://modrinth.com/mod/image2map)
 - Lets you turn images into in-game maps
-82. ### Formations Nether
+81. ### Formations Nether
 - Adds in 8 more randomly-generated structures in the nether
-83. ### Macaw's Furniture
+82. ### Macaw's Furniture
 - Adds in furniture
-84. ### Macaw's Trapdoors
+83. ### Macaw's Trapdoors
 - Adds in new trapdoors
-85. ### Macaw's Paths and Pavings
+84. ### Macaw's Paths and Pavings
 - Adds in paths and pavings
-86. ### Armorful
+85. ### Armorful
 - Illagers and drowned will now spawn with armor
 - Adds in wolf armor
+86. ### More Bows  |  [More Info](https://modrinth.com/mod/more-bows-restrung)
+- Loads of new bows and enchants etc.
+87. ### Dummy
+- Target dummy that shows the damage you're doing
+88. ### Moog's Voyager Structures
+- Over 80+ structures including dungeons
+89. ### Moog's End Structures
+- Over 20 end structures (maybe including dungeons idfk)

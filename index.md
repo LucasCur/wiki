@@ -246,3 +246,37 @@
 - You can now trim your tools...
 91. ### Hopo's Better Underwater Cities
 - Overhauled underwater cities
+92. ### Where-Is-My-Stuff
+- Says your coordinates in the death screen so you don't lose your shit
+93. ### Death Counter
+- Online and ingame death counter
+94. ### WITS
+- You can do /wits at any structure to see what it is / what mod it is from.
+95. ### Miniboss Bars
+- Minibosses such as the warden now have boss bars
+96. ### Highspeed Rail
+- Minecarts are actually useful now, and any rails put on gravel will be sped up to the speed of boats on blue ice (fastest travel apart from elytra)
+97. ### Wandering Collector
+- Any items you lose by despawning / burnt in lava for example, can be bought back randomly from wandering traders.
+98. ### Inmis
+- Backpack mod
+99. ### Shulkerbox Tooltips
+- You can preview backpack and shulker box content when hovering in the inventory
+100. ### Elytra Trims
+- You can put trims on elytras now
+101. ### Subterrestrial
+- Adds in underground houses to explore like in terraria
+102. ### ShowMeWhatYouGot
+- Do Ctrl+T when hovering over an item in your inventory to send it in chat so people can see all the item's information.
+103. ### Villages & Pillages
+- Pillager/witch villages can spawn
+104. ### Grindstone Sharper Tools
+- A grindstone can be used to temporarily increase a weapon's damage like in terraria
+105. ### Players drop heads
+- Take a wild guess what this one does
+106. ### Pingspam
+- You can @ people ingame
+107. ### Press ALT to meow
+- meow meow meow
+108. ### Coordinate List
+- Adds in waypoints

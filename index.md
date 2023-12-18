@@ -248,8 +248,6 @@
 - Overhauled underwater cities
 92. ### Where-Is-My-Stuff
 - Says your coordinates in the death screen so you don't lose your shit
-93. ### Death Counter
-- Online and ingame death counter
 94. ### WITS
 - You can do /wits at any structure to see what it is / what mod it is from.
 95. ### Miniboss Bars
